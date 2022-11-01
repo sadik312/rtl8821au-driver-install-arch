@@ -1,0 +1,10 @@
+1. sudo pacman -Syy 
+   sudo pacman -Syu
+
+2  sudo pacman -S usbutils
+
+3. yay -S rtl8821au-dkms-git (make sure to have yay package manager installed)
+
+4. Reboot computer (light on usb wifi should start blinking)
+
+5. connect to wifi using nmtui command
