@@ -1,7 +1,7 @@
 1. sudo pacman -Syy 
    sudo pacman -Syu
 
-2  sudo pacman -S usbutils
+2  sudo pacman -S usbutils (if not already installed)
 
 3. yay -S rtl8821au-dkms-git (make sure to have yay package manager installed)
 
